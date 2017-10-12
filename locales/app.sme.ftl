@@ -24,7 +24,7 @@ hide_errtype = Ale merke dakkár meattáhusaid
 hidden_errtypes = Ale merke:
 
 // TODO:
-hide_errtype_explanation = Klikk på eit ord for å skjula feiltypen
+hide_errtype_explanation = meattáhusšlájat mat eai merkejuvvo
 
 
 // BEGIN Examples
