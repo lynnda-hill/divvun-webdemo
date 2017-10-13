@@ -21,7 +21,7 @@ editor_placeholder = Čális dása, dahje válljes ovdmearkka dás vuolábealde
 hide_errtype = Ale merke dakkár meattáhusaid
 
 // TODO:
-hidden_errtypes = Ale merke:
+hidden_errtypes = meattáhusšlájat mat eai merkejuvvo:
 
 // TODO:
 hide_errtype_explanation = Klikk på eit ord for å skjula feiltypen
